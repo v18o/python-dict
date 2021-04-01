@@ -1,6 +1,3 @@
 # python-dict
-My implementation of Python dict
+Very simplistic implementation of Python dict (the one before 3.6 version)
 
-Python version is 3.6.1
-
--- Made with love --
