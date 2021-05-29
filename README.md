@@ -1,3 +1,2 @@
-# python-dict
-Very simplistic implementation of Python dict (the one before 3.6 version)
-
+# my-python-dict
+Python dict implementation to understand dict better. 
